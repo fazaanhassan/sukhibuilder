@@ -592,7 +592,7 @@ section {
   font-size: 28px;
   text-align: center;
   background: rgba(20, 157, 221, 0.75);
-  transition: 0.3s;
+  /* transition: 0.3s; */
   width: 50%;
 }
 
